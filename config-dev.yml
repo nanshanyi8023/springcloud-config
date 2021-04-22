@@ -1,2 +1,2 @@
 config:
-  info:"master branch,apringcloud-config/config-dev.yml version=1"
+  info: "master branch,apringcloud-config/config-dev.yml version=1 --客户端访问测试"
